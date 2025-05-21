@@ -1,4 +1,3 @@
----
 
 # Webpack Configuration for React App
 
@@ -7,8 +6,6 @@
 **Webpack** is a powerful, extensible, and customizable **module bundler**. It allows you to bundle your JavaScript, CSS, and other resources like images, fonts, and HTML into optimized files that can be served to the browser.
 
 Webpack takes your **source code** and **assets**, applies transformations (like transpiling or minifying), and bundles them into **optimized files** for the browser.
-
----
 
  Why Use Webpack?
 
@@ -300,7 +297,7 @@ Webpack is generally used in **frontend development** with JavaScript frameworks
 
 ## 5. **Next-Generation Features**
 
-### ⚡ Modern Output Generation
+###  Modern Output Generation
 
 * **Configure native ESM output**:
 
@@ -393,6 +390,3 @@ Webpack is generally used in **frontend development** with JavaScript frameworks
 * **Optimize for edge deployment**:
 
   * Optimize Webpack configurations for deployment to edge networks.
-
----
-
